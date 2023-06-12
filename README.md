@@ -1,2 +1,5 @@
 # python-help
-Helpful scripts for Python plotting with Matplotlib
+
+Python resources for plotting
+
+Contact Megan with questions.
