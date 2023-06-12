@@ -1,5 +1,5 @@
-# python-help
+# Python resources
 
-Python resources for plotting
+Reference script for plotting
 
-Contact Megan with questions.
+Contact Megan with questions
